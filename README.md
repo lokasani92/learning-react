@@ -1,1 +1,2 @@
-# learning-react
+﻿`Run locally`
+npm start
